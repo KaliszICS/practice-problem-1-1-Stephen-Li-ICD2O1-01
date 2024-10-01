@@ -9,9 +9,9 @@ def q2():
 def q3():
   print(" Help Me!")
   
-def q4:
+def q4():
   #Write Assignment code here
-print("3 x 3 = 9")
+  print("3 x 3 = 9")
 
 q1()
 q2()
